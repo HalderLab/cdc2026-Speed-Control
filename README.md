@@ -14,6 +14,13 @@ The control framework allows a follower agent (modeled as a nonholonomic unicycl
 2. **Leader-Independent Tracking:** Input-to-State Stability (ISS) and periodic orbit convergence when the leader's steering is unknown to the follower.
 3. **N-Agent Chain Network:** Propagation of steering impulses through a multi-agent flock using cascaded pairwise tracking.
 
+## Video Demo
+## Demo Video
+
+[![Robotic Demonstration of Feedback Speed Control for Planar Leader-Follower Tracking](https://img.youtube.com/vi/0pK7FSkUUMg/0.jpg)](https://youtu.be/0pK7FSkUUMg)
+
+This video demonstrates leader-follower formation control using two TurtleBot3 Burger robots.
+
 ## Contact
 
 For questions regarding the code, hardware setup, or the mathematical proofs, please open an issue or contact the corresponding author:
