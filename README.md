@@ -16,7 +16,7 @@ The control framework allows a follower agent (modeled as a nonholonomic unicycl
 
 ## Demo Video
 
-[![Robotic Demonstration of Feedback Speed Control for Planar Leader-Follower Tracking](https://img.youtube.com/vi/0pK7FSkUUMg/maxresdefault.jpg)](https://youtu.be/0pK7FSkUUMg)
+[![Robotic Demonstration of Feedback Speed Control for Planar Leader-Follower Tracking](https://img.youtube.com/vi/d5yo6izFKcU/maxresdefault.jpg)](https://youtu.be/d5yo6izFKcU)
 
 This video demonstrates leader-follower formation control using two TurtleBot3 Burger robots.
 
